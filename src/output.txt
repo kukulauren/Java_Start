@@ -1,0 +1,12 @@
+Welcome to Student Management System!
+Please Choose the option 1-4!
+1. Add Student
+2. Update information of Student
+3. Get detail information of a student
+4. Exit the program
+Enter your choice: Exception in thread "main" java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Scanner.java:862)
+	at java.util.Scanner.next(Scanner.java:1485)
+	at java.util.Scanner.nextInt(Scanner.java:2117)
+	at java.util.Scanner.nextInt(Scanner.java:2076)
+	at StudentManagement.main(StudentManagement.java:78)
